@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Setup The Proper Node Modules
+
+Install Bootstrap and Axios via:
+
+`npm install react-bootstrap bootstrap`
+`yarn add axios`
+
 ## Available Scripts
 
 In the project directory, you can run:
