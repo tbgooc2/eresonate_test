@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Install Bootstrap and Axios via:
 
 `npm install react-bootstrap bootstrap`  
-`yarn add axios`
+`yarn add axios`  
+`yarn add node-sass`
 
 ## Available Scripts
 
